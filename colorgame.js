@@ -62,6 +62,7 @@ resetButton.addEventListener("click", function() {
   }
   h1.style.backgroundColor = "transparent";
   messageDisplay.textContent = "";
+  this.textContent = 'New Colors'
 });
 
 colorDisplay.textContent = pickedColor;
