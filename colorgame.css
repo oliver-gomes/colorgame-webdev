@@ -1,5 +1,5 @@
 body {
-  background-color: #bbb;
+  background-color: #232323;
 }
 
 .square {
@@ -27,4 +27,13 @@ h1 {
   height: 30px;
   text-align: center;
   color: black;
+}
+button {
+  border: none;
+  background: none;
+}
+
+.selected {
+  color: white;
+  background: blue;
 }
