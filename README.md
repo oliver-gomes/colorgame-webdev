@@ -1,7 +1,7 @@
 # Color Game
 
 
-![project image](https://oliver-gomes.github.io/images/Color-game.gif)
+![project image](https://oliver-gomes.github.io/images/Color-game-2.gif)
 ## Table of Contents
 
 * [How to play](#how-to-play)
